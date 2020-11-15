@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: Hello from Production!
+      value: Hello from Production with Arc!
